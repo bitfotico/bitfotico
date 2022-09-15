@@ -2,7 +2,7 @@
   
   <h2 align="center">
     I'm
-    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
+    <img alt="popup_cat" src="https://github.com/bitfotico/bitfotico/blob/main/giphy.webp" width="50">
     Tyler Hudson
     <img alt="dev_cat" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="50"> 
   </h2>
